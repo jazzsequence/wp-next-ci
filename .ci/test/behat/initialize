@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -eo pipefail
+
+#
+# This script makes the preparations
+# needed to run Behat tests.
+#
+
+# Do nothing as Behat is no longer supported in WP.

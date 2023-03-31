@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -eo pipefail
+
+#
+# This script runs cleanup after Behat tests complete.
+#
+
+# Do nothing as Behat is no longer supported in WP.
